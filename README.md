@@ -106,21 +106,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
- ### Additional Notes:
- 1. You should also create a `.gitignore` file if you haven't already, with at least these
- entries:
-
-
-.env venv/ pycache/ *.pyc
-
-
-
- 2. Create a `requirements.txt` file with:
-
-
-python-dotenv pdfplumber python-docx rich requests
-
-
-
- 3. For the DOC extraction functionality to work, you might want to add `textract` to the
- requirements as well, though it's not shown in the imports.
