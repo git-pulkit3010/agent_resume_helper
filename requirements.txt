@@ -1,0 +1,6 @@
+pdfplumber
+python-docx
+textract
+requests
+python-dotenv
+rich
